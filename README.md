@@ -37,9 +37,9 @@ Welcome to my GitHub profile. I specialize in infrastructure automation, contain
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
-
 ### GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenlenhuthuan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenlenhuthuan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenlenhuthuan&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenlenhuthuan&layout=compact&theme=radical&hide_border=true)
+
